@@ -54,4 +54,5 @@ Run the app with:
 streamlit run StreamlitApp.py
 ```
 
-🔗 **Contributions & Feedback** are welcome!
+
+🔗 **Contributions & Feedback** are welcome! 🔗
