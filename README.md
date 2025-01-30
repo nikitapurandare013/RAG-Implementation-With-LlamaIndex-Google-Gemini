@@ -54,6 +54,6 @@ Run the app with:
 streamlit run StreamlitApp.py
 ```
 
-##To access the complete implementation, please refer to the master branch.**
+## To access the complete implementation, please refer to the master branch.
 
 🔗 **Contributions & Feedback** are welcome! 🔗
