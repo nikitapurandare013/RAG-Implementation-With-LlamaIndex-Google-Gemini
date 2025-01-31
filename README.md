@@ -8,6 +8,10 @@ This repository provides a comprehensive guide on building a **Retrieval-Augment
 - **Efficient embedding and retrieval pipelines**
 - **Streamlit-based frontend for user interaction**
 
+### RAG Flowchart
+![image](https://github.com/user-attachments/assets/d609457e-ec21-4e31-a738-a461d059ab42)
+
+
 ### Install dependencies:
 ```sh
 pip install -r requirement.txt
