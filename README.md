@@ -8,7 +8,7 @@ This repository provides a comprehensive guide on building a **Retrieval-Augment
 - **Efficient embedding and retrieval pipelines**
 - **Streamlit-based frontend for user interaction**
 
-### RAG Flowchart
+### RAG Flowchart explaining the Question Answering with Documents
 ![image](https://github.com/user-attachments/assets/d609457e-ec21-4e31-a738-a461d059ab42)
 
 
